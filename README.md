@@ -1,4 +1,4 @@
-# jsmn-traversal
+# jsmn_traversal.hpp
  Traversing JSON tokens from JSMN parsing
 
 # Usage
