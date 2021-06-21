@@ -64,6 +64,6 @@ JSMNobject select (const char * str);
 JSMNobject element(int el);
 ````
 
-#examples
+# Example
 An example cross-compiling for the pi pico is added. By removing #PICO_ARCH definition it should work for all platforms, but mind the include dircetories.  
 
