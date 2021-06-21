@@ -65,5 +65,5 @@ JSMNobject element(int el);
 ````
 
 # Example
-An example cross-compiling for the pi pico is added. By removing #PICO_ARCH definition it should work for all platforms, but mind the include dircetories.  
+An example cross-compiling for the pi pico is added. By removing #PICO_ARCH definition the example should work for all platforms, but mind the include directories.  
 
