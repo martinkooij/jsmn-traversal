@@ -3,11 +3,11 @@
 
 # Usage
  Use the tokenizer by zserge: https://github.com/zserge/jsmn
- This only needs the header file jsmn.h to be inlcude in your project. 
+ This only needs the header file jsmn.h to be included in your project. 
  
  Use the traverser in c++ from this repository. You only need to include jsmn_traversal.hpp
  
-In short by inlcuding jsmn.h and jsmn_traversal.cpp you have a lightweight parser and traversal. 
+In short by including the two header files jsmn.h and jsmn_traversal.cpp you have a lightweight parser and traversal. No code needed.
 
 # Functionality
 For use of jsmn see https://github.com/zserge/jsmn. 
